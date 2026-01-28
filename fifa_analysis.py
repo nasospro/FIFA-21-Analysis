@@ -51,3 +51,6 @@ plt.show()
 plt.figure(figsize=(12, 6))
 sns.boxplot(data=df_10M, x='Best Position', y='Value_Num_in_EUR', palette='viridis')
 plt.show()
+
+
+df_10M.to_excel("fifa_data_for_powerbi.xlsx", index=False)
