@@ -1,0 +1,683 @@
+Club,Club_ID
+FC Barcelona,1
+Juventus,2
+Atlético Madrid,3
+Manchester City,4
+Paris Saint-Germain,5
+FC Bayern München,6
+Liverpool,7
+Real Madrid,8
+Chelsea,9
+Tottenham Hotspur,10
+Inter,11
+Napoli,12
+Borussia Dortmund,13
+Manchester United,14
+Arsenal,15
+Lazio,16
+Leicester City,17
+Borussia Mönchengladbach,18
+Real Sociedad,19
+Atalanta,20
+Olympique Lyonnais,21
+Milan,22
+Villarreal CF,23
+RB Leipzig,24
+Cagliari,25
+Ajax,26
+SL Benfica,27
+AS Monaco,28
+Wolverhampton Wanderers,29
+Everton,30
+Fiorentina,31
+FC Porto,32
+RC Celta,33
+Torino,34
+Sevilla FC,35
+Grêmio,36
+Real Betis,37
+Roma,38
+Newcastle United,39
+Eintracht Frankfurt,40
+Valencia CF,41
+Medipol Başakşehir FK,42
+Inter Miami,43
+Bayer 04 Leverkusen,44
+Levante UD,45
+Crystal Palace,46
+Athletic Club de Bilbao,47
+Shanghai SIPG FC,48
+VfL Wolfsburg,49
+Guangzhou Evergrande Taobao FC,50
+Al Shabab,51
+Olympique de Marseille,52
+Los Angeles FC,53
+Beijing Sinobo Guoan FC,54
+Getafe CF,55
+SV Werder Bremen,56
+TSG 1899 Hoffenheim,57
+LOSC Lille,58
+Deportivo Alavés,59
+Burnley,60
+Leeds United,61
+Fulham,62
+PFC CSKA Moscow,63
+Genoa,64
+Galatasaray SK,65
+Atlanta United,66
+Atlético Mineiro,67
+Flamengo,68
+Palmeiras,69
+No Club,70
+São Paulo,71
+West Ham United,72
+SD Eibar,73
+River Plate,74
+OGC Nice,75
+Real Valladolid CF,76
+Sporting CP,77
+PSV,78
+Feyenoord,79
+Club Brugge KV,80
+Shakhtar Donetsk,81
+Vissel Kobe,82
+Boca Juniors,83
+1. FC Union Berlin,84
+Dalian YiFang FC,85
+AS Saint-Étienne,86
+Sassuolo,87
+Tigres U.A.N.L.,88
+Dinamo Zagreb,89
+Dynamo Kyiv,90
+Fluminense,91
+Udinese,92
+Aston Villa,93
+Stade Rennais FC,94
+Beşiktaş JK,95
+Brighton & Hove Albion,96
+Hebei China Fortune FC,97
+Southampton,98
+Lokomotiv Moscow,99
+Jiangsu Suning FC,100
+Al Hilal,101
+West Bromwich Albion,102
+Fenerbahçe SK,103
+FC Groningen,104
+Guangzhou R&F FC,105
+Orlando City SC,106
+Sampdoria,107
+Stade de Reims,108
+Sheffield United,109
+Santos,110
+Internacional,111
+Coritiba,112
+CA Osasuna,113
+LA Galaxy,114
+Al Nassr,115
+SC Freiburg,116
+SC Braga,117
+Olympiacos CFP,118
+Toronto FC,119
+Granada CF,120
+FC Schalke 04,121
+RC Strasbourg Alsace,122
+Hertha BSC,123
+AZ Alkmaar,124
+Seattle Sounders FC,125
+Montpellier HSC,126
+Shanghai Greenland Shenhua FC,127
+Hamburger SV,128
+Girona FC,129
+Racing Club,130
+Portland Timbers,131
+FC Girondins de Bordeaux,132
+Watford,133
+Estudiantes de La Plata,134
+Club América,135
+Vitória Guimarães,136
+SK Slavia Praha,137
+Trabzonspor,138
+RCD Espanyol,139
+FC Nantes,140
+Angers SCO,141
+Cruz Azul,142
+BSC Young Boys,143
+Club León,144
+Spartak Moscow,145
+Sivasspor,146
+Elche CF,147
+FC Augsburg,148
+Wuhan Zall,149
+Parma,150
+Royal Antwerp FC,151
+Monterrey,152
+San Lorenzo de Almagro,153
+AC Monza,154
+Club Atlético Lanús,155
+SD Huesca,156
+Derby County,157
+Kayserispor,158
+RSC Anderlecht,159
+CD Leganés,160
+Vélez Sarsfield,161
+Stade Brestois 29,162
+Tianjin TEDA FC,163
+Birmingham City,164
+Hellas Verona,165
+1. FC Köln,166
+Al Wehda,167
+Bournemouth,168
+Alanyaspor,169
+Bologna,170
+Amiens SC,171
+Celtic,172
+Shijiazhuang Ever Bright F.C.,173
+Club Atlas,174
+Al Ahli,175
+Norwich City,176
+Fatih Karagümrük S.K.,177
+Club Tijuana,178
+Universidad Católica,179
+Goiás,180
+Benevento,181
+Independiente,182
+Qingdao Huanghai F.C.,183
+Brentford,184
+AEK Athens,185
+Racing Club de Lens,186
+Olimpia Asunción,187
+Shenzhen FC,188
+Çaykur Rizespor,189
+KAA Gent,190
+New England Revolution,191
+Cádiz CF,192
+1. FSV Mainz 05,193
+Vasco da Gama,194
+FC Midtjylland,195
+Al Ain FC,196
+Santos Laguna,197
+SPAL,198
+Perth Glory,199
+FC Utrecht,200
+Montreal Impact,201
+UD Almería,202
+Fortaleza,203
+Spezia,204
+FC Basel 1893,205
+FC København,206
+Godoy Cruz,207
+Deportivo Toluca,208
+Nacional de Montevideo,209
+Aalborg BK,210
+Rio Ave FC,211
+FC Metz,212
+Chongqing Dangdai Lifan FC SWM Team,213
+Rosenborg BK,214
+FC Red Bull Salzburg,215
+Botafogo,216
+DSC Arminia Bielefeld,217
+Club Athletico Paranaense,218
+RCD Mallorca,219
+Pachuca,220
+Swansea City,221
+KRC Genk,222
+En Avant de Guingamp,223
+Lecce,224
+Nîmes Olympique,225
+Colo-Colo,226
+Stade Malherbe Caen,227
+Columbus Crew SC,228
+Junior FC,229
+VfB Stuttgart,230
+Moreirense FC,231
+Rangers FC,232
+Malmö FF,233
+Shandong Luneng TaiShan FC,234
+Sparta Praha,235
+Hatayspor,236
+Chicago Fire,237
+Toulouse Football Club,238
+FC Seoul,239
+Antalyaspor,240
+Deportivo Cali,241
+Kaizer Chiefs,242
+Real Zaragoza,243
+Atlético Clube Goianiense,244
+Puebla FC,245
+Fortuna Düsseldorf,246
+Western United FC,247
+Astra Giurgiu,248
+Henan Jianye FC,249
+Bahia,250
+Famalicão,251
+Atiker Konyaspor,252
+Peñarol,253
+DC United,254
+New York City FC,255
+Argentinos Juniors,256
+U.N.A.M.,257
+Minnesota United FC,258
+Nottingham Forest,259
+Independiente del Valle,260
+Defensa y Justicia,261
+Philadelphia Union,262
+Newell's Old Boys,263
+Rosario Central,264
+Atlético de San Luis,265
+FC Dallas,266
+Denizlispor,267
+Yeni Malatyaspor,268
+Club Atlético Colón,269
+Houston Dynamo,270
+Millwall,271
+Clube Sport Marítimo,272
+MKE Ankaragücü,273
+Guadalajara,274
+Boavista FC,275
+Sporting Kansas City,276
+Atlético Nacional,277
+CD Lugo,278
+New York Red Bulls,279
+PAOK,280
+SC Heerenveen,281
+Daegu FC,282
+Preston North End,283
+Damac FC,284
+Brescia,285
+VfL Bochum 1848,286
+Vancouver Whitecaps FC,287
+SV Sandhausen,288
+Royal Excel Mouscron,289
+Dijon FCO,290
+Molde FK,291
+Panathinaikos FC,292
+LASK Linz,293
+Ulsan Hyundai FC,294
+Real Salt Lake,295
+FC Luzern,296
+Viktoria Plzeň,297
+Orlando Pirates,298
+Al Ittihad,299
+1. FC Nürnberg,300
+Standard de Liège,301
+Rayo Vallecano,302
+Club Libertad,303
+Jeonbuk Hyundai Motors,304
+Western Sydney Wanderers,305
+Unión de Santa Fe,306
+FC Sion,307
+Sydney FC,308
+Hannover 96,309
+Real Sporting de Gijón,310
+FC Cincinnati,311
+ESTAC Troyes,312
+San Jose Earthquakes,313
+Club Guaraní,314
+FC Lorient,315
+Gençlerbirliği SK,316
+Sporting de Charleroi,317
+Wisła Kraków,318
+Al Taawoun,319
+Reading,320
+Gazişehir Gaziantep F.K.,321
+Blackburn Rovers,322
+Kashiwa Reysol,323
+FK Bodø/Glimt,324
+Willem II,325
+Vitesse,326
+Gil Vicente FC,327
+SønderjyskE,328
+Yokohama F. Marinos,329
+FC St. Gallen,330
+Club Atlético Aldosivi,331
+Göztepe SK,332
+Holstein Kiel,333
+FC Juárez,334
+FCSB (Steaua),335
+Ettifaq FC,336
+KAS Eupen,337
+FC Tokyo,338
+Melbourne City FC,339
+Universitatea Craiova,340
+CD Tondela,341
+Wolfsberger AC,342
+Ceará Sporting Club,343
+River Plate Asunción,344
+Stoke City,345
+Paris FC,346
+IFK Norrköping,347
+Crotone,348
+Cardiff City,349
+América de Cali,350
+Al Faisaly,351
+Independiente Medellín,352
+Portimonense SC,353
+CD Tenerife,354
+Heracles Almelo,355
+Nashville SC,356
+SK Rapid Wien,357
+Kawasaki Frontale,358
+Club Necaxa,359
+Chievo Verona,360
+Lech Poznań,361
+AIK,362
+FK Austria Wien,363
+Querétaro,364
+1. FC Heidenheim 1846,365
+Legia Warszawa,366
+Club Atlético Banfield,367
+Os Belenenses,368
+Huddersfield Town,369
+KSV Cercle Brugge,370
+LDU Quito,371
+Gimnasia y Esgrima La Plata,372
+Gamba Osaka,373
+Middlesbrough,374
+Servette FC,375
+Empoli,376
+Real Oviedo,377
+Kasimpaşa SK,378
+CFR Cluj,379
+Millonarios FC,380
+FC Paços de Ferreira,381
+Sint-Truidense VV,382
+AD Alcorcón,383
+Colorado Rapids,384
+Dinamo Bucureşti,385
+Cerezo Osaka,386
+FC Emmen,387
+Sheffield Wednesday,388
+FC Erzgebirge Aue,389
+Raków Częstochowa,390
+Atlético Tucumán,391
+SV Darmstadt 98,392
+Bristol City,393
+Oud-Heverlee Leuven,394
+Barnsley,395
+Queens Park Rangers,396
+Sangju Sangmu FC,397
+Helsingborgs IF,398
+AC Ajaccio,399
+Oceânico FC,400
+Club Atlético Talleres,401
+Al Hazem,402
+SC Paderborn 07,403
+Club Atlético Huracán,404
+KV Kortrijk,405
+El Nacional,406
+Mazatlán FC,407
+Aberdeen,408
+CD Mirandés,409
+SV Zulte-Waregem,410
+Piast Gliwice,411
+Djurgårdens IF,412
+Central Córdoba,413
+Wellington Phoenix,414
+Deportivo Binacional,415
+Patronato,416
+SpVgg Greuther Fürth,417
+IFK Göteborg,418
+FC Cartagena,419
+Santa Clara,420
+FC Twente,421
+Farense,422
+ADO Den Haag,423
+AJ Auxerre,424
+Al Fateh,425
+Valenciennes FC,426
+Hokkaido Consadole Sapporo,427
+FC St. Pauli,428
+Albacete BP,429
+1. FC Kaiserslautern,430
+Al Fayha,431
+Incheon United FC,432
+KV Mechelen,433
+Pohang Steelers,434
+CD Nacional,435
+Unión La Calera,436
+BB Erzurumspor,437
+Kashima Antlers,438
+Arsenal de Sarandí,439
+HJK Helsinki,440
+Karlsruher SC,441
+Aarhus GF,442
+FC Zürich,443
+Barcelona Sporting Club,444
+SG Dynamo Dresden,445
+Sanfrecce Hiroshima,446
+Al Raed,447
+SD Ponferradina,448
+Brøndby IF,449
+Lechia Gdańsk,450
+FC Viitorul,451
+SK Sturm Graz,452
+IF Elfsborg,453
+Gangwon FC,454
+Melgar FBC,455
+Club Atlético Grau,456
+Jagiellonia Białystok,457
+Waasland-Beveren,458
+VfL Osnabrück,459
+Nagoya Grampus,460
+CF Fuenlabrada,461
+Shamrock Rovers,462
+Shimizu S-Pulse,463
+RKC Waalwijk,464
+Vålerenga Fotball,465
+Clermont Foot 63,466
+FC Ingolstadt 04,467
+FC Würzburger Kickers,468
+Górnik Zabrze,469
+Charlton Athletic,470
+Beerschot AC,471
+Coquimbo Unido,472
+Viktoria Köln,473
+Hull City,474
+Málaga CF,475
+FC Nordsjælland,476
+UD Las Palmas,477
+VVV-Venlo,478
+GwangJu FC,479
+Chamois Niortais Football Club,480
+FC Lugano,481
+Cusco FC,482
+Sparta Rotterdam,483
+Sol de América,484
+PEC Zwolle,485
+Pogoń Szczecin,486
+Doncaster Rovers,487
+Kristiansund BK,488
+Liverpool Fútbol Club,489
+Club Bolívar,490
+Urawa Red Diamonds,491
+SK Brann,492
+Eintracht Braunschweig,493
+Nacional Asunción,494
+Melbourne Victory,495
+Kilmarnock,496
+Dundalk,497
+SSV Jahn Regensburg,498
+Abha Club,499
+Club Atlético Tigre,500
+Suwon Samsung Bluewings,501
+Shonan Bellmare,502
+SD Aucas,503
+Emelec,504
+Fortuna Sittard,505
+La Berrichonne de Châteauroux,506
+Śląsk Wrocław,507
+Coventry City,508
+Sunderland,509
+Alianza Lima,510
+Hammarby IF,511
+Cracovia,512
+CE Sabadell FC,513
+Oita Trinita,514
+BK Häcken,515
+Luton Town,516
+Le Havre AC,517
+IK Sirius,518
+Zagłębie Lubin,519
+Grenoble Foot 38,520
+Macarthur FC,521
+Rodez Aveyron Football,522
+Vegalta Sendai,523
+Motherwell,524
+SV Wehen Wiesbaden,525
+Audax Italiano,526
+Gaz Metan Mediaş,527
+Portsmouth,528
+Hibernian,529
+Always Ready,530
+UD Logroñés,531
+FC Voluntari,532
+FC Hermannstadt,533
+AS Nancy Lorraine,534
+Rotherham United,535
+Fleetwood Town,536
+Jorge Wilstermann,537
+Odense Boldklub,538
+MSV Duisburg,539
+FC Sochaux-Montbéliard,540
+Milton Keynes Dons,541
+River Plate Montevideo,542
+Delfín SC,543
+Universidad Católica del Ecuador,544
+Deportivo Pasto,545
+KV Oostende,546
+Club Plaza Colonia,547
+Wigan Athletic,548
+FC Botoşani,549
+C.D. Castellón,550
+SCR Altach,551
+Örebro SK,552
+TSV Hartberg,553
+Stabæk Fotball,554
+Wycombe Wanderers,555
+St. Johnstone FC,556
+Oxford United,557
+Lincoln City,558
+Randers FC,559
+Viking FK,560
+FC Chambly Oise,561
+Dundee United,562
+Oriente Petrolero,563
+Odds BK,564
+Nacional Potosí,565
+Sepsi OSK,566
+FC Hansa Rostock,567
+Lyngby BK,568
+SpVgg Unterhaching,569
+Brisbane Roar,570
+Seongnam FC,571
+SV Ried,572
+CD Huachipato,573
+WSG Tirol,574
+Podbeskidzie Bielsko-Biała,575
+Peterborough United,576
+Club Blooming,577
+Wisła Płock,578
+Busan IPark,579
+FSV Zwickau,580
+Mjøndalen IF,581
+Vejle Boldklub,582
+Pau FC,583
+FC Lausanne-Sport,584
+Estudiantes de Mérida,585
+Sagan Tosu,586
+SV Waldhof Mannheim,587
+Sport Huancayo,588
+Hallescher FC,589
+Kalmar FF,590
+St. Mirren,591
+SKN St. Pölten,592
+Sarpsborg 08 FF,593
+Shrewsbury,594
+TSV 1860 München,595
+SV Meppen,596
+Ipswich Town,597
+IK Start,598
+Adelaide United,599
+Stal Mielec,600
+Centro Atlético Fénix,601
+Newcastle Jets,602
+Livingston FC,603
+AC Mineros de Guayana,604
+AFC Wimbledon,605
+Burton Albion,606
+Al Adalah,607
+Warta Poznań,608
+USL Dunkerque,609
+Bristol Rovers,610
+UTA Arad,611
+Östersunds FK,612
+Sportivo Luqueño,613
+Politehnica Iaşi,614
+Salford City,615
+Central Coast Mariners,616
+Caracas FC,617
+AC Horsens,618
+Plymouth Argyle,619
+Aalesunds FK,620
+Crewe Alexandra,621
+Chindia Târgovişte,622
+Oldham Athletic,623
+Yokohama FC,624
+Blackpool,625
+Northampton Town,626
+Bayern München II,627
+FK Haugesund,628
+KFC Uerdingen 05,629
+Forest Green Rovers,630
+Cheltenham Town,631
+Strømsgodset IF,632
+Mjällby AIF,633
+Exeter City,634
+Cambridge United,635
+Grimsby Town,636
+FC Vaduz,637
+Türkgücü München,638
+VfB Lübeck,639
+Bolton Wanderers,640
+Bradford City,641
+1. FC Magdeburg,642
+FC Admira Wacker Mödling,643
+Hamilton Academical FC,644
+Aragua FC,645
+Accrington Stanley,646
+Swindon Town,647
+Carlisle United,648
+FC Argeș,649
+Port Vale,650
+Academica Clinceni,651
+Rochdale,652
+Gillingham,653
+Tranmere Rovers,654
+Southend United,655
+1. FC Saarbrücken,656
+Colchester United,657
+Mansfield Town,658
+Falkenbergs FF,659
+SC Verl,660
+Varbergs BoIS,661
+Crawley Town,662
+Sandefjord Fotball,663
+Newport County,664
+Bohemian FC,665
+Ross County FC,666
+Scunthorpe United,667
+Morecambe,668
+Walsall,669
+Leyton Orient,670
+Stevenage,671
+Barrow,672
+Derry City,673
+Llaneros de Guanare,674
+Sligo Rovers,675
+Zamora FC,676
+St. Patrick's Athletic,677
+Cork City,678
+Shelbourne FC,679
+Harrogate Town,680
+Waterford FC,681
+Finn Harps,682
